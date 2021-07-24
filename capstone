@@ -37,6 +37,14 @@
    "source": [
     "print('Hello Capstone Project Course!')"
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "1341cb57-5d0d-4b58-8f8c-a00ba15057cb",
+   "metadata": {},
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
